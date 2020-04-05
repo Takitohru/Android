@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">andorid_lab3-2</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="button1">Cancel</string>
+    <string name="button2">Sign in</string>
+</resources>
