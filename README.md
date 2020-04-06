@@ -34,5 +34,4 @@
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_1_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_2_image.png)  
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_3_image.png)
-![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_4_image.png)
 
