@@ -7,7 +7,7 @@
 **（1）MyApplication3**  
 内容:利用线性布局实现界面、约束布局实现界面以及利用表格布局实现界面效果   
   
-![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab2_linearLayout_image.png)
+![线性布局示例](https://github.com/Takitohru/Android/blob/master/Example_image/lab2_linearLayout_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab2_con_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab2_table_image.png)  
 ### 实验三  
