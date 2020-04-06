@@ -24,7 +24,7 @@
    
    
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_1_image.png)
-![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_2_image.png)
+![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_2_image.png)  
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_3_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_4_image.png)  
  **（3）andorid_lab3_3**  
@@ -32,7 +32,7 @@
  长按list内容可以出发上下文菜单,上下文菜单中的勾为全选,垃圾桶图标为删除  
    
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_1_image.png)
-![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_2_image.png)
+![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_2_image.png)  
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_3_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_4_image.png)
 
