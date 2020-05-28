@@ -41,3 +41,5 @@ intent隐式调用一个由用户输入地址的网站
 
 **（2）Lab4_Br**
 使用WebView编写的一个第三方app,用于intent隐式调用时打开一个网页
+
+### 期中实验NotePad
