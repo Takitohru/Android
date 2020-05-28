@@ -27,7 +27,7 @@
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_2_image.png)  
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_3_image.png)
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_3_4_image.png)  
- **（3）andorid_lab3_3**  
+ **（3）andorid_lab3_4**  
  创建上下文操作模式(ActionMode)的上下文菜单  
  长按list内容可以出发上下文菜单,上下文菜单中的勾为全选,垃圾桶图标为删除  
    
@@ -35,3 +35,9 @@
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_2_image.png)  
 ![Image text](https://github.com/Takitohru/Android/blob/master/Example_image/lab3_4_3_image.png)
 
+### 实验四
+**（1）Android_Lab4Url**
+intent隐式调用一个由用户输入地址的网站
+
+**（2）Lab4_Br**
+使用WebView编写的一个第三方app,用于intent隐式调用时打开一个网页
