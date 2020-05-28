@@ -83,7 +83,6 @@ public class NotePadProvider extends ContentProvider implements PipeDataWriter<C
             NotePad.Notes._ID,               // Projection position 0, the note's id
             NotePad.Notes.COLUMN_NAME_NOTE,  // Projection position 1, the note's content
             NotePad.Notes.COLUMN_NAME_TITLE, // Projection position 2, the note's title
-            NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE,
     };
     private static final int READ_NOTE_NOTE_INDEX = 1;
     private static final int READ_NOTE_TITLE_INDEX = 2;

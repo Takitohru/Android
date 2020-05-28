@@ -113,8 +113,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data android:mimeType="vnd.android.cursor.dir/vnd.google.note" />
-                <!-- 1.vnd.android.cursor.dir代表返回结果为多列数据 -->
-                <!-- 2.vnd.android.cursor.item 代表返回结果为单列数据 -->
             </intent-filter>
         </activity>
         <activity

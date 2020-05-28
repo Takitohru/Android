@@ -1,6 +1,4 @@
 package com.example.android.notepad;
-
-import android.app.Activity;
 import android.app.ListActivity;
 import android.content.ContentUris;
 import android.content.Intent;
@@ -27,7 +25,7 @@ public class NoteSearch extends ListActivity  implements SearchView.OnQueryTextL
             intent.setData(NotePad.Notes.CONTENT_URI);
         }
         SearchView searchview = (SearchView)findViewById(R.id.search_view);
-        //为查询文本框注册监听器
+        //监听器
         searchview.setOnQueryTextListener(NoteSearch.this);
     }
     @Override
