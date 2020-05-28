@@ -39,7 +39,8 @@
 </LinearLayout>
 </LinearLayout>
 ```
-实现后的效果: 
+实现后的效果:  
+  
       ![icon](https://github.com/Takitohru/Android/blob/master/Example_image/Picture%20of%20notePad_1.jpg)  
         
 * 更改布局文件之后,查看源代码发现数据库中已经存在了实现时间戳所需要的字段
@@ -120,6 +121,7 @@ Long now = Long.valueOf(System.currentTimeMillis());
         />
 ```  
 效果如下:  
+  
   ![icon](https://github.com/Takitohru/Android/blob/master/Example_image/picture%20of%20notePad_2.jpg)  
     
   此时仅仅只有图标,还不能使用因此我们要实现搜索的功能  
@@ -144,7 +146,9 @@ Long now = Long.valueOf(System.currentTimeMillis());
     </ListView>
 </LinearLayout>
 ```  
-实现后效果:  ![icon](https://github.com/Takitohru/Android/blob/master/Example_image/picture%20of%20notePad3.jpg)    
+实现后效果:  
+  ![icon](https://github.com/Takitohru/Android/blob/master/Example_image/picture%20of%20notePad3.jpg)  
+    
   * 同样我们要实现搜索栏点击的触发需要再NoteList类中对对应的点击进行修改,触发intent,显式调用一个Search的activity  
   
 ```  
